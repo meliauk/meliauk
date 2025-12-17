@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,15,20&height=200&section=header&text=王余凡%20(Meliauk)&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Java%20Developer%20|%20Vue%20Enthusiast&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,15,20&height=200&section=header&text=雪糕巧克力&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Java%20Developer%20|%20Vue%20Enthusiast&descAlignY=65&descSize=20" />
 </div>
 
 <h1 align="center">
@@ -40,8 +40,8 @@
       <h3>🎯 生活侧写</h3>
       <p><strong>坐标：</strong> <code>湖北 · 襄阳</code></p>
       <p><strong>自述：</strong> <code>贪财好色，是个俗人</code></p>
-      <p><strong>爱好：</strong> 第一爱好是<code>女</code>，其次才是<strong>🏸 羽毛球</strong>、<strong>🚵 骑车</strong>、<strong>⛰️ 爬山</strong>、<strong>🎿 滑雪</strong>。</p>
-      <p><strong>哲学：</strong> “毕竟几人真得鹿，不知终日梦为鱼。” —— 认真生活，坦然做梦。</p>
+      <p><strong>爱好：</strong> 第一爱好是女，其次才是<strong>🏸 羽毛球</strong>、<strong>🚵 骑车</strong>、<strong>⛰️ 爬山</strong>、<strong>🎿 滑雪</strong>。</p>
+      <p><strong>哲学：</strong> “毕竟几人真得鹿，不知终日梦为鱼。” </p>
     </td>
   </tr>
 </table>
@@ -93,6 +93,8 @@
 
 | 项目 | 类型 | 简介 | 链接 |
 | :--- | :---: | :--- | :--- |
+| **😊 我的2024** | 技术 | 在线版个人简历，来份工作吧！看看孩子吧 | [前往](https://v0710.top/2024/) |
+| **❤️ 我的2023** | 技术 | 在线版个人简历，来份工作吧！看看孩子吧 | [前往](https://v0710.top/2023/) |
 | **📄 个人简历** | 技术 | 在线版个人简历，来份工作吧！看看孩子吧 | [前往](https://v0710.top/readme/) |
 | **🤔 今天吃什么哩？** | 生活 | 拯救选择困难症，一键决定今日菜单 | [前往](http://v0710.top/whatEat) |
 | **📚 高中时刻** | 生活 | 用数字方式记录和珍藏的高中记忆片段 | [前往](http://v0710.top/school) |
@@ -103,37 +105,10 @@
 | **📖 文档库** | 技术 | 个人知识库与学习笔记，走过路过不要错过~ | [前往](http://v0710.top:10086/) |
 | **💾 文件存储** | 技术 | 个人简易图床与文件存储服务 | [前往](http://v0710.top:1009/) |
 | **💬 说点什么哩？** | 爱玩 | 一个轻量级的留言板，写一句你认为当下最好的话~ | [前往](https://v0710.top/say) |
-| **🔧 代码生成插件** | 技术 | 提升IntelliJ IDEA开发效率的自制小插件 | [前往](https://gitee.com/MEliauk/plugin) |
-
-<br />
-
-## 📊 GitHub 数据 | GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meliauk&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=2D67D3&icon_color=FF6B6B" alt="Meliauk's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meliauk&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=2D67D3" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meliauk&custom_title=Meliauk's%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&hide_border=true&line=2D67D3&point=FF6B6B&area=true&area_color=2D67D3" alt="Activity Graph" />
-</div>
-
-<br />
-
-## 🌟 收藏夹 | Favorites Gallery
-
-这些是我互联网世界里的“宝藏”。
-
-| 名称 | 预览 | 链接 | 类别 | 一句话描述 |
-| :--- | :---: | :--- | :---: | :--- |
-| **V0710** | <img src="https://v0710.top/qiniu/favorites/meliauk11684077943971843.jpg" width="60"/> | [前往](http://www.v0710.top/) | 技术 | 毕竟几人真得鹿，不知终日梦为鱼 |
-| **JustMe** | <img src="https://v0710.top/qiniu/favorites/meliauk11684078067921900.gif" width="60"/> | [前往](https://v0710.top/justMe) | 生活 | 我的发疯日常 |
-| **DDbug** | <img src="https://v0710.top/qiniu/favorites/MEliauk11703061598989560.jpg" width="60"/> | [前往](https://meliauk.gitee.io/ddbug/) | 技术 | 记录开发问题 |
-| **2023/2024** | <img src="https://v0710.top/qiniu/favorites/MEliauk11749189285600812.svg" width="60"/> | [2024](https://v0710.top/2024) | 生活 | 年度图片记录 |
-| **SQL格式化** | <img src="https://v0710.top/qiniu/favorites/meliauk11753434563052917.png" width="60"/> | [前往](https://v0710.top/sql) | 技术 | 支持日志打印的SQL工具 |
-| **心灵魔术** | <img src="https://v0710.top/qiniu/favorites/MEliauk11713957626824803.jpg" width="60"/> | [前往](https://meliauk.gitee.io/read-heart) | 爱玩 | 懂你的我 |
-
-<br />
+| **🔧 代码生成插件** | 技术 | 提升IntelliJ IDEA开发效率的自制小插件 | [前往](https://gitee.com/MEliauk/plugin) 
+| **👌 DDbug** | 技术 |记录开发问题 | [前往](https://meliauk.gitee.io/ddbug/) |
+| **🔧 SQL格式化** | 技术 | 支持日志打印的SQL工具 | [前往](https://gitee.com/MEliauk/plugin) |
+| **🔧 心灵魔术** | 技术 | 懂你的我 | [前往](https://meliauk.gitee.io/read-heart) |
 
 ---
 <div align="center">
